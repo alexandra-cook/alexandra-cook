@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandra-cook
--  ☁️ I am Cloud Engineer 
+-  ☁️ I'm a Cloud Engineer 
 - 🌱 I’m currently learning JavaScript
 
 <!---

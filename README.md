@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandra-cook
+- 👋 Hi, I’m Alexandra!
 -  ☁️ I'm a Cloud Engineer 
 - 🌱 I’m currently learning JavaScript
 
